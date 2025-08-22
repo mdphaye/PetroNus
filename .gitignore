@@ -1,0 +1,32 @@
+# Ignore virtual environment
+jupyter-env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# VS Code settings
+.vscode/
+
+# Ignore large model files (optional if you plan to host them elsewhere)
+*.pkl
