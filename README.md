@@ -4,8 +4,11 @@
 ## Overview
 **PetroNus** is a Python-based Streamlit web application that predicts payzones, total porosity (phi), and water saturation (Sw) from well-log CSV files. It provides intuitive visualizations of predicted payzones and allows users to compare actual versus predicted phi and Sw values, enabling geoscientists and reservoir engineers to efficiently review and explore well log analyses.
 
-## Demo
-![PetroNus UI](UI/Petronus.gif)
+<!-- ## Demo -->
+<!-- ![PetroNus UI](UI/Petronus.gif) -->
+# UI Demo
+<img src="UI/Petronus.gif" alt="UI" width="900"/>
+
 
 ## Features
 - Upload multiple well CSV files for analysis.
